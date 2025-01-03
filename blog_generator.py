@@ -5,7 +5,6 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import os
 from datetime import datetime
-
 def ensure_model_available(model_name):
     """Ensure the model[
         "Marketers", "Tech Enthusiasts", "Environmentalists", "Educators", "Healthcare Professionals",
